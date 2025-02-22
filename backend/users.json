@@ -1,0 +1,18 @@
+[
+    {
+      "userId": 1,
+      "email": "admin@gmail.com",
+      "password": "admin",
+      "username": "adminUser",
+      "fullName": "Admin User",
+      "savedRecipes": [1, 2]
+    },
+    {
+      "userId": 2,
+      "email": "test@gmail.com",
+      "password": "test123",
+      "username": "testUser",
+      "fullName": "Test User",
+      "savedRecipes": [1]
+    }
+  ]

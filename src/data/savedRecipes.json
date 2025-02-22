@@ -1,0 +1,41 @@
+{
+    "user1": [
+      {
+        "id": 1,
+        "title": "Classic Spaghetti Carbonara",
+        "time": "45 mins",
+        "likes": 1234,
+        "image": "/dish2.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Chicken Stir Fry",
+        "time": "30 mins",
+        "likes": 85,
+        "image": "/dish1.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Grilled Salmon",
+        "time": "40 mins",
+        "likes": 200,
+        "image": "/dish4.jpg"
+      }
+    ],
+    "user2": [
+      {
+        "id": 3,
+        "title": "Chocolate Cake",
+        "time": "1 hr",
+        "likes": 320,
+        "image": "/dish10.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Pork Ribs",
+        "time": "1 hr",
+        "likes": 175,
+        "image": "/dish5.jpg"
+      }
+    ]
+  }

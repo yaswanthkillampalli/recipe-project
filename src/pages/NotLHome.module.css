@@ -1,0 +1,106 @@
+.logoSettings {
+    height: 40px;
+}
+.headerSettings {
+    height: 40px;
+    width :100%;
+    display: flex;
+    align-items: center;
+    background-color: #000000c1;
+}
+
+.searchBarSettings{
+    width: 250px;
+    height: 22px;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    background-color: transparent;
+}
+.dummy12 input {
+    color:white;
+}
+.searchSettings {
+    width: 20px;
+    height: 20px;
+    color: white;
+}
+.headerUserSettings {
+    height:100%;
+    border-radius: 50%;
+}
+.listItemSettings a {
+    text-decoration: none;
+    color:white;
+}
+.listSettings {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding-top:9px;
+    color: white;
+    cursor: pointer;
+}
+.listItemSettings:hover {
+    border-bottom: 1px solid white;
+}
+.searchBarSettings input::placeholder {
+    color: white;
+}
+.searchBarSettings input:focus {
+    border-bottom: 1px solid white;
+}
+.listItemSettings {
+    margin-left:20px;
+}
+.tagsSection {
+    display: flex;
+    align-items: center;
+}
+.buttonSettings {
+    border-radius:50px;
+    padding:5px 20px;
+    font-size:12px;
+    border : 1px solid #000000c1;
+    margin-left: 3px;
+    margin-right: 3px;
+}
+.buttonSettings:hover {
+    background-color: #000000c1;
+    color: white;
+}
+.card {
+    padding:2px;
+    border-radius: 5px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    cursor: pointer;
+}
+.cardImgTop {
+    border-radius: 5px;
+    width:100%;
+}
+.cardBody {
+    padding-top:3px;
+}
+.cardTitle {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin-bottom: 0.75rem;
+}
+.cardText {
+    font-size: 1rem;
+    margin-bottom: 1rem;
+}
+.headerRegisterButtonSettings {
+    background-color: #000000c1;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.headerRegisterButtonSettings:hover {
+    background-color: #000000a1;
+}

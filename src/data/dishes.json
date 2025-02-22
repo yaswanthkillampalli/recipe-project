@@ -1,0 +1,34 @@
+{
+    "inProgress": [
+      { "title": "Chicken Stir Fry", "time": "30 mins", "likes": 85, "image": "/dish1.jpg" },
+      { "title": "Beef Tacos", "time": "20 mins", "likes": 150, "image": "/dish2.jpg" },
+      { "title": "Veggie Pasta", "time": "25 mins", "likes": 92, "image": "/dish3.jpg" },
+      { "title": "Grilled Salmon", "time": "40 mins", "likes": 200, "image": "/dish4.jpg" },
+      { "title": "Pork Ribs", "time": "1 hr", "likes": 175, "image": "/dish5.jpg" },
+      { "title": "Lentil Soup", "time": "35 mins", "likes": 60, "image": "/dish6.jpg" }
+    ],
+    "allTimeBest": [
+      { "title": "Spaghetti Bolognese", "time": "45 mins", "likes": 300, "image": "/dish7.jpg" },
+      { "title": "Pizza Margherita", "time": "30 mins", "likes": 450, "image": "/dish8.jpg" },
+      { "title": "Butter Chicken", "time": "50 mins", "likes": 275, "image": "/dish9.jpg" },
+      { "title": "Chocolate Cake", "time": "1 hr", "likes": 320, "image": "/dish10.jpg" },
+      { "title": "Caesar Salad", "time": "15 mins", "likes": 180, "image": "/dish11.jpg" },
+      { "title": "Sushi Rolls", "time": "40 mins", "likes": 210, "image": "/dish12.jpg" }
+    ],
+    "trending": [
+      { "title": "Avocado Toast", "time": "10 mins", "likes": 500, "image": "/dish13.jpg" },
+      { "title": "Ramen Bowl", "time": "35 mins", "likes": 380, "image": "/dish14.jpg" },
+      { "title": "Keto Bowl", "time": "25 mins", "likes": 290, "image": "/dish15.jpg" },
+      { "title": "Vegan Burger", "time": "30 mins", "likes": 340, "image": "/dish16.jpg" },
+      { "title": "Smoothie Bowl", "time": "15 mins", "likes": 410, "image": "/dish17.jpg" },
+      { "title": "Tiramisu", "time": "1 hr", "likes": 260, "image": "/dish18.jpg" }
+    ],
+    "todaySpecials": [
+      { "title": "Fish Curry", "time": "40 mins", "likes": 130, "image": "/dish19.jpg" },
+      { "title": "Steak Fries", "time": "45 mins", "likes": 220, "image": "/dish20.jpg" },
+      { "title": "Quinoa Salad", "time": "20 mins", "likes": 95, "image": "/dish21.jpg" },
+      { "title": "Pancakes", "time": "25 mins", "likes": 310, "image": "/dish22.jpg" },
+      { "title": "Lamb Chops", "time": "50 mins", "likes": 160, "image": "/dish23.jpg" },
+      { "title": "Mango Sorbet", "time": "30 mins", "likes": 140, "image": "/dish24.jpg" }
+    ]
+  }
