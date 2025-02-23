@@ -1,0 +1,113 @@
+/* Modal backdrop and container */
+.modalContainer {
+    background-color: rgba(0, 0, 0, 0.5); /* Matches the inline backdrop style */
+  }
+  
+  /* Modal content */
+  .modalContent {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    max-width: 500px; /* Slightly wider than default modal-md */
+    margin: 0 auto;
+  }
+  
+  /* Modal header */
+  .modalHeader {
+    background-color: #f8f9fa; /* Light gray like your headerSettings */
+    border-bottom: 1px solid #dee2e6;
+    padding: 1rem 1.5rem;
+  }
+  
+  .modalTitle {
+    font-size: 1.5rem;
+    font-weight: 600;
+    color: #343a40;
+  }
+  
+  .closeButton {
+    background: none;
+    border: none;
+    font-size: 1.5rem;
+    color: #6c757d;
+    cursor: pointer;
+    transition: color 0.2s;
+  }
+  
+  .closeButton:hover {
+    color: #343a40;
+  }
+  
+  /* Modal body */
+  .modalBody {
+    padding: 1.5rem;
+  }
+  
+  .formLabel {
+    font-weight: 500;
+    color: #495057;
+    margin-bottom: 0.5rem;
+  }
+  
+  .formInput {
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 100%;
+    transition: border-color 0.2s;
+  }
+  
+  .formInput:focus {
+    border-color: #007bff;
+    outline: none;
+    box-shadow: 0 0 0 0.2rem rgba(0, 123, 255, 0.25);
+  }
+  
+  /* Error message */
+  .errorMessage {
+    background-color: #f8d7da;
+    color: #721c24;
+    padding: 0.75rem;
+    border-radius: 4px;
+    margin-bottom: 1rem;
+  }
+  
+  /* Modal footer */
+  .modalFooter {
+    border-top: 1px solid #dee2e6;
+    padding: 1rem 1.5rem;
+    display: flex;
+    justify-content: flex-end;
+    gap: 0.5rem;
+  }
+  
+  .saveButton {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .saveButton:hover {
+    background-color: #0056b3;
+  }
+  
+  .closeFooterButton {
+    background-color: #6c757d;
+    color: #fff;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.2s;
+  }
+  
+  .closeFooterButton:hover {
+    background-color: #5a6268;
+  }

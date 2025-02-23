@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "title": "Classic Spaghetti Carbonara",
+      "author": "Chef John",
+      "likes": 1234,
+      "image": "/dish2.jpg",
+      "ingredients": [
+        "400g spaghetti",
+        "150g pancetta, diced",
+        "2 large eggs",
+        "1 cup grated Parmesan cheese",
+        "2 cloves garlic, minced",
+        "Salt and black pepper to taste",
+        "Fresh parsley, chopped (for garnish)"
+      ],
+      "steps": [
+        "Bring a large pot of salted water to a boil. Cook the spaghetti according to package instructions until al dente. Reserve 1 cup of pasta water and drain the rest.",
+        "In a large skillet, cook the pancetta over medium heat until crispy. Add the minced garlic and cook for another minute.",
+        "In a bowl, whisk together the eggs and grated Parmesan cheese.",
+        "Add the cooked spaghetti to the skillet with the pancetta. Remove from heat and quickly toss to combine.",
+        "Pour the egg and cheese mixture over the spaghetti, tossing continuously to create a creamy sauce. Add reserved pasta water as needed to reach desired consistency.",
+        "Season with salt and black pepper to taste. Garnish with chopped parsley and serve immediately."
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Chicken Stir Fry",
+      "author": "Chef Amy",
+      "likes": 85,
+      "image": "/dish1.jpg",
+      "ingredients": [
+        "500g chicken breast, sliced",
+        "2 tbsp soy sauce",
+        "1 bell pepper, sliced",
+        "1 broccoli head, chopped",
+        "2 tbsp vegetable oil",
+        "1 tsp ginger, minced",
+        "Salt and pepper to taste"
+      ],
+      "steps": [
+        "Marinate chicken in soy sauce for 15 minutes.",
+        "Heat oil in a wok over high heat. Add ginger and stir-fry for 30 seconds.",
+        "Add chicken and cook until browned, about 5 minutes.",
+        "Toss in bell pepper and broccoli, stir-fry for 3-4 minutes until tender.",
+        "Season with salt and pepper, serve hot."
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Chocolate Cake",
+      "author": "Baker Sue",
+      "likes": 320,
+      "image": "/dish10.jpg",
+      "ingredients": [
+        "2 cups all-purpose flour",
+        "1 cup cocoa powder",
+        "1.5 cups sugar",
+        "1 tsp baking soda",
+        "2 eggs",
+        "1 cup milk",
+        "1/2 cup vegetable oil",
+        "1 tsp vanilla extract"
+      ],
+      "steps": [
+        "Preheat oven to 350°F (175°C). Grease a 9-inch cake pan.",
+        "Mix flour, cocoa, sugar, and baking soda in a bowl.",
+        "Add eggs, milk, oil, and vanilla. Beat until smooth.",
+        "Pour batter into the pan and bake for 30-35 minutes.",
+        "Cool before serving."
+      ]
+    }
+  ]

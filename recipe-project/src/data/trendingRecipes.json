@@ -1,0 +1,50 @@
+[
+    {
+      "id": 13,
+      "title": "Avocado Toast",
+      "time": "10 mins",
+      "likes": 500,
+      "image": "/dish13.jpg",
+      "trendScore": 98
+    },
+    {
+      "id": 14,
+      "title": "Ramen Bowl",
+      "time": "35 mins",
+      "likes": 380,
+      "image": "/dish14.jpg",
+      "trendScore": 95
+    },
+    {
+      "id": 15,
+      "title": "Keto Bowl",
+      "time": "25 mins",
+      "likes": 290,
+      "image": "/dish15.jpg",
+      "trendScore": 92
+    },
+    {
+      "id": 16,
+      "title": "Vegan Burger",
+      "time": "30 mins",
+      "likes": 340,
+      "image": "/dish16.jpg",
+      "trendScore": 90
+    },
+    {
+      "id": 1,
+      "title": "Classic Spaghetti Carbonara",
+      "time": "45 mins",
+      "likes": 1234,
+      "image": "/dish2.jpg",
+      "trendScore": 87
+    },
+    {
+      "id": 8,
+      "title": "Pizza Margherita",
+      "time": "30 mins",
+      "likes": 450,
+      "image": "/dish8.jpg",
+      "trendScore": 85
+    }
+  ]

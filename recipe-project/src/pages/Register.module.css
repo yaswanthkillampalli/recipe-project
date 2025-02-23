@@ -1,0 +1,77 @@
+.loginContainerSettings {
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    border: 2px solid black;
+    border-radius:20px;
+}
+.loginLeftCard {
+    background-image: url(login-background.jpg);
+    background-size: cover;
+    border-radius: 20px 0px 0px 20px;
+}
+.inputFieldSettings {
+    outline:none;
+    background-color: transparent;
+    border:none;
+    border-bottom:1px solid black;
+    color:black;   
+}
+.greetSettings {
+    border: 3px solid black;
+    color: rgb(255, 255, 255);
+    border-radius:10px;
+    backdrop-filter: blur(5px);
+    padding: 10px;
+}
+.headerSettings {
+    height: 40px;
+    width :100%;
+    display: flex;
+    align-items: center;
+    background-color: #000000c1;
+}
+.logoSettings {
+    height: 40px;
+}
+.listSettings {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    padding-top:9px;
+    color: white;
+    cursor: pointer;
+}
+.listItemSettings a {
+    text-decoration: none;
+    color:white;
+}
+.listItemSettings:hover {
+    border-bottom: 1px solid white;
+}
+.listItemSettings {
+
+    margin-left:20px;
+}
+.headerRegisterButtonSettings {
+    background-color: #000000c1;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.headerRegisterButtonSettings:hover {
+    background-color: #000000a1;
+}
+.headerLoginButtonSettings {
+    background-color: #000000c1;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}   
+.headerLoginButtonSettings:hover {
+    background-color: #000000a1;
+}
